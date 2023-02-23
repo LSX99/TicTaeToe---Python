@@ -12,6 +12,7 @@ This project is an example built along with ‘The Complete Python Bootcamp From
     - Let user update through an interaction
     - Update variables in the program
     - Display updated visual
+
 ![](https://github.com/LSX99/TicTaeToe---Python/blob/main/TTT%20concept%20explanation.gif)
     
     
