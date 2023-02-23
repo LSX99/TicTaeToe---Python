@@ -1,5 +1,5 @@
 
-# Tic Tac Toe Game
+![alt text](https://github.com/LSX99/TicTaeToe---Python/blob/main/%E2%AD%95%EF%B8%8F%E2%9D%8C_Tic_Tac_Toe_%E2%9D%8C%E2%AD%95%EF%B8%8F.png)
 
 Ever familiar Tic-Tac-Toe Game played in your own terminal:)
 
@@ -12,8 +12,12 @@ This project is an example built along with ‘The Complete Python Bootcamp From
     - Let user update through an interaction
     - Update variables in the program
     - Display updated visual
+![](https://github.com/LSX99/TicTaeToe---Python/blob/main/TTT%20concept%20explanation.gif)
+    
+    
+    
 # Usage
-→ Insert Numberpad
+![alt text](https://github.com/LSX99/TicTaeToe---Python/blob/main/TicTacToe%20numberpad.png)
 
 The Number Pad indicates the position of the board that players can place their markers
 
